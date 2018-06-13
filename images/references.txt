@@ -1,0 +1,15 @@
+g_stoff1 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff2 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff3 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff4 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff5 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff10 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff11 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff13 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+g_stoff14 http://www.marquise.de/en/1700/howto/18fabrics_muster.shtml
+williamsburg1.jpg http://shop.colonialwilliamsburg.com/Birds-in-Fleur-Fabric
+williamsburg2.jpg http://shop.colonialwilliamsburg.com/Brandied-Raisin-Chintz-Fabric
+o_stoff1t http://www.marquise.de/en/1700/howto/18fabrics.shtml
+o_stoff2t http://www.marquise.de/en/1700/howto/18fabrics.shtml
+o_stoff3t http://www.marquise.de/en/1700/howto/18fabrics.shtml
+o_stoff4t http://www.marquise.de/en/1700/howto/18fabrics.shtml
