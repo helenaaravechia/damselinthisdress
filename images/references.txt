@@ -13,3 +13,6 @@ o_stoff1t http://www.marquise.de/en/1700/howto/18fabrics.shtml
 o_stoff2t http://www.marquise.de/en/1700/howto/18fabrics.shtml
 o_stoff3t http://www.marquise.de/en/1700/howto/18fabrics.shtml
 o_stoff4t http://www.marquise.de/en/1700/howto/18fabrics.shtml
+http://demodecouture.com/cotton/
+https://collections.lacma.org/node/214427
+http://collection.cooperhewitt.org/objects/18481741/
